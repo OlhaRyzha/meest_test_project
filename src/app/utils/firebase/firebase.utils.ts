@@ -34,10 +34,10 @@ const firebaseConfig = {
   apiKey: "AIzaSyA3BYzc29GjbCyIpfHwZ8gScRtRgA6mZdw",
   authDomain: "meest-516d9.firebaseapp.com",
   projectId: "meest-516d9",
-  storageBucket: "meestcom-810cd.appspot.com",
-  messagingSenderId: "973051368610",
-  appId: "1:973051368610:web:5c91d560cbf0f1231bb3fb",
-  measurementId: "G-11DDP91YCY",
+  storageBucket: "meest-516d9.appspot.com",
+  messagingSenderId: "654507965383",
+  appId: "1:654507965383:web:f04453aa0ee4659332b7e2",
+  measurementId: "G-83EV260261",
 };
 
 // Initialize Firebase
