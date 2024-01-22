@@ -2,7 +2,7 @@
   "name": "https://github.com/OlhaRyzha/meest_test_project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://OlhaRyzha.github.io/meest_test_project/",
+  "homepage": "https://olharyzha.github.io/meest_test_project/",
   "dependencies": {
     "@googlemaps/js-api-loader": "^1.16.2",
     "@testing-library/jest-dom": "^5.17.0",
