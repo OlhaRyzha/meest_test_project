@@ -45,7 +45,6 @@ const ServicesSubsection = ({ title }: Props) => {
             <FormTextComponent>
               {user?.phone?.phone_number && `+${user?.phone?.phone_number}`}
             </FormTextComponent>
-            <p>dfkzjmhgkf;lxjhn;ockm'p</p>
           </UserInfoText>
           <ServiceEditButton onClick={handleEditClick}>Edit</ServiceEditButton>
         </UserInfoContainer>
