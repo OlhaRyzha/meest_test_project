@@ -31,7 +31,7 @@ export const enum FirebaseErrorCodes {
 }
 
 const firebaseConfig = {
-  apiKey: "BCM_6AtgLyKaLiZKle06LDLY941fkCpxIkIdvRtrMrE9v1YLQG",
+  apiKey: "AIzaSyA3BYzc29GjbCyIpfHwZ8gScRtRgA6mZdw",
   authDomain: "meest-516d9.firebaseapp.com",
   projectId: "meest-516d9",
   storageBucket: "meestcom-810cd.appspot.com",
