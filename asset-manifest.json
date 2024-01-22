@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/meest_test_project/static/css/main.98ec47ca.css",
-    "main.js": "/meest_test_project/static/js/main.31fded56.js",
+    "main.js": "/meest_test_project/static/js/main.8ec9a53e.js",
     "static/media/coming-soon-image.svg": "/meest_test_project/static/media/coming-soon-image.dc5776329ad518556f0840e4a66106a2.svg",
     "static/media/apple-store-icon.svg": "/meest_test_project/static/media/apple-store-icon.6301f65a751832a76662312a5e976cd7.svg",
     "static/media/google-play-store-icon.svg": "/meest_test_project/static/media/google-play-store-icon.0edae992a9ea2547c2e6a86ad62ea127.svg",
@@ -39,10 +39,10 @@
     "static/media/green-circle-icon.svg": "/meest_test_project/static/media/green-circle-icon.aa8ed07fd64a6b6ce1ed4b81c6811d9d.svg",
     "static/media/gray-circle-icon.svg": "/meest_test_project/static/media/gray-circle-icon.00b4bc2fba63628d3e8bf9ffa74bc8be.svg",
     "main.98ec47ca.css.map": "/meest_test_project/static/css/main.98ec47ca.css.map",
-    "main.31fded56.js.map": "/meest_test_project/static/js/main.31fded56.js.map"
+    "main.8ec9a53e.js.map": "/meest_test_project/static/js/main.8ec9a53e.js.map"
   },
   "entrypoints": [
     "static/css/main.98ec47ca.css",
-    "static/js/main.31fded56.js"
+    "static/js/main.8ec9a53e.js"
   ]
 }
