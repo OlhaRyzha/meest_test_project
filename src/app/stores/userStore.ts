@@ -90,7 +90,6 @@ export default class UserStore {
 
       const firebaseToken = (authUser.user as any).accessToken;
       const firebaseUid = authUser.user.uid;
-
       const meestToken = await agent.Auth.socialLogin(
         firebaseUid,
         firebaseToken,

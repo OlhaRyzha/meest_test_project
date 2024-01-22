@@ -1,4 +1,5 @@
 import { FirebaseError, initializeApp } from "firebase/app";
+
 import {
   getAuth,
   signInWithPopup,
@@ -30,14 +31,23 @@ export const enum FirebaseErrorCodes {
   auth_popup_closed_by_user = "auth/popup-closed-by-user",
 }
 
+// const firebaseConfig = {
+//   apiKey: "AIzaSyBBZPByAtaTJ2sg4NBtxqyn94Y3vW1RoPc",
+//   authDomain: "meestcom-810cd-3897b.firebaseapp.com",
+//   projectId: "meestcom-810cd-3897b",
+//   storageBucket: "meestcom-810cd-3897b.appspot.com",
+//   messagingSenderId: "443429428220",
+//   appId: "1:443429428220:web:66634f196b66c1b1b3b079",
+// };
+
 const firebaseConfig = {
-  apiKey: "AIzaSyA3BYzc29GjbCyIpfHwZ8gScRtRgA6mZdw",
-  authDomain: "meest-516d9.firebaseapp.com",
-  projectId: "meest-516d9",
-  storageBucket: "meest-516d9.appspot.com",
-  messagingSenderId: "654507965383",
-  appId: "1:654507965383:web:f04453aa0ee4659332b7e2",
-  measurementId: "G-83EV260261",
+  apiKey: "AIzaSyBhR6__Kf7h4i1nfkcTiqFJZkSJDmFgvM4",
+  authDomain: "meestcom-810cd.firebaseapp.com",
+  projectId: "meestcom-810cd",
+  storageBucket: "meestcom-810cd.appspot.com",
+  messagingSenderId: "973051368610",
+  appId: "1:973051368610:web:5c91d560cbf0f1231bb3fb",
+  measurementId: "G-11DDP91YCY",
 };
 
 // Initialize Firebase

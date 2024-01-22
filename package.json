@@ -16,7 +16,7 @@
     "antd": "^5.11.2",
     "axios": "^1.6.0",
     "country-flag-icons": "^1.5.7",
-    "firebase": "^10.5.2",
+    "firebase": "^10.7.2",
     "formik": "^2.4.5",
     "i18next": "^23.6.0",
     "i18next-xhr-backend": "^3.2.2",
@@ -39,7 +39,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && mv build dist",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
